@@ -263,10 +263,10 @@ if show_raw_data:
 st.markdown("---")
 st.caption("""
 **Fuente de datos:** Registro Único de Víctimas (RUV) - Colombia \n
-**Fecha de corte de los datos:** 19 
-Dashboard desarrollado con Streamlit \n
-Desarrollado por: **Juan Guillermo López Cortés, Ivonne Patricia Cruz** \n
-Fecha de última actualización: {} \n
+**Fecha de corte de los datos:** 1985 - Septiembre 30 de 2025 \n
+**Desarrollado por:** Ivonne Patricia Cruz Caballero, Juan Guillermo López Cortés\n
+**Dashboard desarrollado con Streamlit**\n
+**Fecha de última actualización:** {} \n
 """.format(datetime.now().strftime("%Y-%m-%d")))
 st.markdown("""
 **Nota:** Los datos presentados en este dashboard son para fines informativos y de análisis.
